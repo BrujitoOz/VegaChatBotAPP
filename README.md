@@ -1,5 +1,5 @@
 # Telegram-ChatBot
-## Telegram ChatBot: diseñado para responder preguntas y respuestas con Data personalizada empresarial
+## Telegram ChatBot: diseñado para responder preguntas y respuestas con data personalizada empresarial
 ### En este caso el chatbot aprendio en base a data sobre un aplicativo de ventas, y es capaz de orientar al usuario a resolver inconvenientes con esta app
 ![image](https://github.com/BrujitoOz/Telegram-ChatBot/assets/54969025/cf6973c2-0640-4dfe-9d35-9cc8a1432ec5)
 
