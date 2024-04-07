@@ -7,7 +7,7 @@
 #### Se hizo usando el API de OpenAI para usar el modelo GPT-3.5, es decir que se usa un sistema de pago pay-as-you-go
 
 ### Segunda versión
-#### Se hizo usando los modelos locales de Ollama, en este caso Zephyr. Se necesita que la PC que uses tenga un buen CPU y preferiblemente GPU
+#### Se hizo usando los modelos locales de Ollama, en este caso Zephyr. Se necesita tener instalado Ollama y que la PC que uses tenga un buen CPU y preferiblemente también GPU.
 
 ### En este caso el chatbot aprendio en base a data sobre un aplicativo de ventas, y es capaz de orientar al usuario a resolver inconvenientes con esta app
 ![image](https://github.com/BrujitoOz/Telegram-ChatBot/assets/54969025/cf6973c2-0640-4dfe-9d35-9cc8a1432ec5)
