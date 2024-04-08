@@ -1,0 +1,16 @@
+langchain
+llama-index
+ollama
+pytesseract
+pyocr
+onnxruntime
+pyTelegramBotAPI
+telebot
+requests
+Pillow
+opencv-python
+numpy
+openai
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+python-dotenv

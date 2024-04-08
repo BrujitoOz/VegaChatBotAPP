@@ -1,0 +1,25 @@
+El aplicativo VMaps necesita permiso de tu dispostivo movil para poder usar el GPS en alta precisión.
+
+como habilitar y verificar GPS alta precisión? Para habilitar el GPS en VMaps 1. Ajustes 2. Aplicaciones 3. Busca y selecciona VMaps 4. En la sección "Permisos" ingresa a "Ubicacion" 6. Marca "Permitir siempre" 7. reinicia.
+
+El ahorro de bateria del smartphone debe estar desactivado para el correcto funcionamiento de vmaps, debe desactivar el wi-fi igualmente.
+
+Aplicaciones secundarias y notificaciones como Facebook, Youtube y Tik Tok deben ser cerradas y apagar Bluetooth y Wi-fi para el correcto funcionamiento de vmaps. 
+
+VMaps marca inmovil? Tener bateria a más de 15% + habilitar el GPS en VMaps 1. Ajustes 2. Aplicaciones 3. Busca y selecciona VMaps 4. En la sección "Permisos" ingresa a "Ubicacion" 6. Marca "Permitir siempre" 7. reinicia.
+
+Sigo en mi ruta pero en Vmaps dice figura que me salí de mi ruta, que hago? Debes activar GPS de alta precisión
+
+No pinta mi recorrido, que hago? Activa GPS ALTA PRECISION. Asegurate tener VMaps encendido y permanecer al menos un minuto en tu punto de venta.
+
+GPS marca inmovil? Tener bateria a más de 15% + habilitar el GPS en VMaps 1. Ajustes 2. Aplicaciones 3. Busca y selecciona VMaps 4. En la sección "Permisos" ingresa a "Ubicacion" 6. Marca "Permitir siempre" 7. reinicia.
+
+No marca tu ruta recorrido? Tener bateria a más de 15% + habilitar el GPS en VMaps 1. Ajustes 2. Aplicaciones 3. Busca y selecciona VMaps 4. En la sección "Permisos" ingresa a "Ubicacion" 6. Marca "Permitir siempre" 7. reinicia.
+
+No marca tu punto de venta? Tener bateria a más de 15% + habilitar el GPS en VMaps 1. Ajustes 2. Aplicaciones 3. Busca y selecciona VMaps 4. En la sección "Permisos" ingresa a "Ubicacion" 6. Marca "Permitir siempre" 7. reinicia.
+
+Como mejorar la precisión y el gps del aplicativo vmaps? El aplicativo VMaps necesita permiso de tu dispostivo movil para poder usar el GPS en alta precisión. Para habilitar el GPS en VMaps 1. Ajustes 2. Aplicaciones 3. Busca y selecciona VMaps 4. En la sección Permisos ingresa a Ubicacion 6. Marca Permitir siempre 7. reinicia.
+
+como habilitar y verificar GPS alta precisión? Para habilitar el GPS en VMaps 1. Ajustes 2. Aplicaciones 3. Busca y selecciona VMaps 4. En la sección Permisos ingresa a Ubicacion 6. Marca Permitir siempre 7. reinicia.
+
+Mi GPS no esta funcionando que hago? Si tienes problemas con el gps: Primero, asegúrate de siempre mantener abierta la aplicación V-Maps para marcar el recorrido correctamente Segundo VERIFICAR GPS ALTA PRECISION activado en tu dispositivo. Tercero, Asegúrate de mantener tu dispositivo móvil cargado, el sistema puede disminuir la precisión del GPS si tienes baja batería Cuarto, Desactiva Bluetooth y evitar usar aplicaciones adicionales que afecten la duración de tu batería. Quinto, asegúrate de no tener actualizaciones de sistema pendientes en tu dispositivo móvil.

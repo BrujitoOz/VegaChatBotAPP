@@ -1,0 +1,3 @@
+VMaps No está marcado el ingreso a mi zona que hago? Si no te marca el ingreso a la zona puede ser porque no figura una geocerca por tu ubicación, es tema de solucionarlo con planeamiento, si te refieres a ingreso de hora de inicio, primero intenta reiniciar vmaps, si el problema persiste contacta con tu administrador en Whatsapp y pregúntale si el sistema registro tu hora de inicio.
+
+Por que Vmaps dice que salí de mi zona cuando en verdad sigo en zona? Consultalo con un administrador por whatsapp, el verificara que ha sucedido.

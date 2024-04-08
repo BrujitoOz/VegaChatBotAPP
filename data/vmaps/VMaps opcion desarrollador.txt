@@ -1,0 +1,9 @@
+Cuando la opción de desarrollador activada de VMaps esta activada tienes que 1. entrar en Ajustes del aplicativo VMaps, 2. Escribir DESARROLLADOR en barra de buscador 3. Desactivar esa opción, de lo contrario no podras ingresar
+
+Que es la opción desarrollador? Es una configuración del aplicativo que usan los desarrolladores que se encargan de actualizar el sistema de vmaps. Como usuario, tu debes desactivar esta opción con los siguientes pasos: 1. entrar en Ajustes del aplicativo VMaps, 2. Escribir DESARROLLADOR en barra de buscador 3. Desactivar esa opción, de lo contrario no podras ingresar.
+
+Como desactivar la opción desarrollador? Tienes que 1. entrar en Ajustes del aplicativo VMaps, 2. Escribir DESARROLLADOR en barra de buscador 3. Desactivar esa opción, de lo contrario no podras ingresar.
+
+vmaps dice que detectó que la opción desarrollador está activada que hago? Tienes que 1. entrar en Ajustes del aplicativo VMaps, 2. Escribir DESARROLLADOR en barra de buscador 3. Desactivar esa opción, de lo contrario no podras ingresar.
+
+vmaps no me deja ingresar porque tengo la opción desarrollador activada que hago? Cuando la opción de desarrollador activada de VMaps esta activada tienes que 1. entrar en Ajustes del aplicativo VMaps, 2. Escribir DESARROLLADOR en barra de buscador 3. Desactivar esa opción, de lo contrario no podras ingresar.

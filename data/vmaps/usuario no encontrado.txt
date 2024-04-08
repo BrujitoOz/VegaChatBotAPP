@@ -1,0 +1,3 @@
+Cuando VMaps solo te muestra el mensaje de error “Usuario no encontrado” debes ir a tu grupo de Whatsapp y pedirle a un administrador que actualice tus datos en la plataforma V-Maps.
+
+Cuando el mensaje de error es “Usuario no fue encontrado en la tabla de roles” debes 1. Verificar tener la última versión de VMaps 2. Acceder al almacenamiento del equipo Móvil /Ajustes/Almacenamiento/Aplicaciones/VMaps 3.Selecciona “Borrar datos” 4. Ingresa a VMaps y regístrate de nuevo con el botón "Registrar Aplicación" 5. Notifica a un administrador por Whatsapp para que apruebe tu registro.

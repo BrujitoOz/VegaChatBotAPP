@@ -1,0 +1,9 @@
+Cuando tienes problemas de conexión el aplicativo VMaps te manda el error: "Error al conectarse con los servidores de vmaps, intente nuevamente o comunique a soporte" Debes revisar si tienes saldo disponible de internet en el celular, luego de verificar, reiniciar el celular y proceder a ingresar luego con las credenciales.
+
+como solucionar "Error al conectarse con los servidores de vmaps"? Debes revisar si tienes saldo disponible de internet en el celular, luego de verificar, reiniciar el celular y proceder a ingresar luego con las credenciales.
+
+Tengo problemas de conexón que hago? Debes revisar si tienes saldo disponible de internet en el celular, luego de verificar, reiniciar el celular y proceder a ingresar luego con las credenciales.
+
+Como solucionar problemas de conexión? Debes revisar si tienes saldo disponible de internet en el celular, luego de verificar, reiniciar el celular y proceder a ingresar luego con las credenciales.
+
+Cuando tienes el error: "com.google.firebase An internal error has occurred. Unable to resolver host www.googleapis.com" tienes que revisar si cuentas con saldo disponible de internet en el celular. Luego de verificar, reiniciar el celular y proceder a ingresar luego con las credenciales.

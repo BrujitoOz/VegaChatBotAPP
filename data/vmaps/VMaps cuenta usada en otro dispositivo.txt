@@ -1,0 +1,9 @@
+VMaps manda el error "Vmaps detectó que la cuenta está siendo usada en otro dispositivo o existe una solicitud pendiente de aprobación" Esto sucede porque por politicas de VMaps no se permite que una misma cuenta se use en más de un dispositvo
+
+Para solucionar el error "Vmaps detectó que la cuenta está siendo usada en otro dispositivo o existe una solicitud pendiente de aprobación" debes contactar con un administrador por Whatsapp para que apruebe tu registro o verifique si alguien use su cuenta.
+
+Si VMaps dice que mi cuenta está siendo usada en otro dispositivo o existe una solicitud pendiente de aprobación debes enviar una captura de pantalla o screenshot a tu grupo de Whatsapp para que un administrador apruebe tu registro o verifique que nadie más use tu cuenta.
+
+Por que vmaps no permite que use mi cuenta en otro celular o dispositivo? Es una politica de seguridad de vmaps para impedir que un usuario marque la hora de entrada de alguien más."
+
+Que es una screenshot? Una screenshot o captura de pantalla es una foto que se toma a la pantalla del celular, los smartphones suelen sacar screenshot facialmente presionando al mismo tiempo el botón para apagar del dispositivo + bóton bajar volumen "
