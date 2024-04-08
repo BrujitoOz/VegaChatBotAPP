@@ -9,15 +9,15 @@
 ### Segunda versión
 #### Se hizo usando los modelos locales de Ollama, en este caso Zephyr. Se necesita tener instalado Ollama y que la PC que uses tenga un buen CPU y preferiblemente también GPU.
 
-### En este caso el chatbot aprendio en base a data sobre un aplicativo de ventas, y es capaz de orientar al usuario a resolver inconvenientes con esta app
+### En este caso el chatbot aprendio en base a data sobre un aplicativo de ventas, y es capaz de orientar al usuario a resolver inconvenientes con esta app:
 ![image](https://github.com/BrujitoOz/VegaChatBotAPP/assets/54969025/264cce7e-6444-48b6-9a98-35b405ed3a16)
 ![image](https://github.com/BrujitoOz/VegaChatBotAPP/assets/54969025/f10b7768-06ef-4e45-b44f-432f1e23c2e8)
 
 ### Uso de Modelo de Detección de Objetos con Azure AI Vision
-#### Este proyecto integra un modelo de detección de objetos de Azure AI Vision para analizar la barra de estado en capturas de pantalla de usuarios. Detecta elementos como ahorro de batería activado o notificaciones secundarias, enviando los resultados al chatbot para una respuesta proactiva.
+#### Este proyecto integra un modelo de detección de objetos de Azure AI Vision para analizar la barra de estado en capturas de pantalla de usuarios. Detecta elementos como ahorro de batería activado o notificaciones secundarias, enviando los resultados al chatbot para una respuesta proactiva:
 ![image](https://github.com/BrujitoOz/VegaChatBotAPP/assets/54969025/29102f64-c300-44c2-b89f-e742dfaa8864)
 
-### Con uso de OCR, este chatbot puede leer imagenes
+### Con uso de OCR, este chatbot puede leer el texto extraido de las imagenes:
 ![image](https://github.com/BrujitoOz/VegaChatBotAPP/assets/54969025/c5b19fd7-7808-4a19-974a-1192b5f33f70)
 ![image](https://github.com/BrujitoOz/VegaChatBotAPP/assets/54969025/db06d176-b19d-4426-a145-f853c3e318fc)
 
