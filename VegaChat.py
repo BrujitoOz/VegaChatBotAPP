@@ -135,7 +135,7 @@ def crop_status_bar(image_path):
   return cropped_image
 
 # Obtener la lista de categorias de imagenes detectados
-def process_image(image_path, mensaje):
+def process_image(image_path):
   text = extract_text_from_image(image_path)
 
   imagen_recortada = crop_status_bar(image_path)
@@ -205,7 +205,7 @@ def handle_photo(mensaje):
   with open("temp_image.jpg", "wb") as image_file:
     image_file.write(status.content)
 
-  detected_tags, text_img = process_image("temp_image.jpg", mensaje)
+  detected_tags, text_img = process_image("temp_image.jpg")
   print("tags detectados en la imagen: ", detected_tags)
   print("texto en la imagen: ", text_img)
   
